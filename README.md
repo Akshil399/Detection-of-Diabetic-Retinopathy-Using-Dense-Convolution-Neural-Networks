@@ -1,6 +1,7 @@
 # Detection of Diabetic Retinopathy Using Dense Convolutional Neural Networks
 
-![Diabetic Retinopathy](https://github.com/Akshil399/Detection-of-Diabetic-Retinopathy-Using-Dense-Convolution-Neural-Networks/assets/154296041/96971e14-c013-4854-a8fc-caa24b9695aa)
+![drimg](https://github.com/Akshil399/Detection-of-Diabetic-Retinopathy-Using-Dense-Convolution-Neural-Networks/assets/154296041/8d2aac8c-4ca7-4e54-bd14-df0b77ac30aa)
+
 
 ## Overview
 Diabetic Retinopathy (DR) is a severe eye condition caused by diabetes, leading to vision impairment and potentially blindness. The condition begins with dark lesions and progresses to fluid leakage and the formation of new blood vessels, which can severely damage vision. Early detection is crucial for preventing severe outcomes, especially in rural areas where medical screening is less accessible.
